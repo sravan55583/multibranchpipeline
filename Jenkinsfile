@@ -4,7 +4,7 @@ stages{
 
 stage("Branch"){
 steps{
-echo 'This is master Branch'
+echo 'This is master Branch . . .'
 }
 }
 stage("SCM"){
